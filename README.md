@@ -12,3 +12,6 @@
 
 ## 📝 프로젝트 수행 경험
 Develop Semiconductor Yield Based Python
+
+## 📝 Data Analyze 기반 수율 이상 분석
+
