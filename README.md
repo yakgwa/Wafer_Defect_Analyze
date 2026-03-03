@@ -14,4 +14,4 @@
 Develop Semiconductor Yield Based Python
 
 ## 📝 Data Analyze 기반 수율 이상 분석
-
+[Wafer Defect](https://github.com/yakgwa/Wafer_Defect_Analyze/blob/main/Wafer_Defect.pdf)
