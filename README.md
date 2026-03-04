@@ -13,5 +13,9 @@
 ## 📝 프로젝트 수행 경험
 Develop Semiconductor Yield Based Python
 
+- Use SVM
+- Use DenseNet
+- Design CNN Structure
+
 ## 📝 Data Analyze 기반 수율 이상 분석
 [Wafer_Defect.pdf](https://github.com/yakgwa/Wafer_Defect_Analyze/blob/main/Wafer_Defect.pdf)
